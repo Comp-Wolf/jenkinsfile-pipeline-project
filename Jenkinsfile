@@ -9,3 +9,4 @@ pipeline {
         }
     }
 }
+print('Hello night-fighter, ekip nasıl gidiyor')
